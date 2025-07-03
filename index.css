@@ -11,6 +11,7 @@
 #five{background-color: rgba(125, 213, 159, 0.632); width: 8%;text-align: center; box-shadow: 2px 2px 2px 2px;}
 .five{background-color: rgba(229, 103, 111, 0.845); padding: 7px; box-shadow: 4px 4px 4px 4px; word-spacing:7px;}
 #yo{text-align: end; border-radius: 10px; color: whitesmoke;}
-#body{background-color: rgb(151, 155, 234); box-shadow: 5px ; background-image: url(pix.jpg); background-repeat: no-repeat; background-position: center; background-size: cover;}
+#body{background-color: rgb(151, 155, 234); box-shadow: 5px ; background-image: url(pix.jpg
+); background-repeat: no-repeat; background-position: center; background-size: cover;}
 ul, ol{ display: inline-block;color: white; }
 .same{color: whitesmoke;}
